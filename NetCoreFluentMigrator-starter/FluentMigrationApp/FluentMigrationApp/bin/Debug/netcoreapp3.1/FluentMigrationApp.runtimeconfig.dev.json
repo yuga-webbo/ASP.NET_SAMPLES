@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\groov\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\groov\\.nuget\\packages"
+    ]
+  }
+}
